@@ -7,3 +7,5 @@ export const metadata: Metadata = {
 export default function page () {
     return <p>Customers Page</p>
 }
+
+// This is for deployment
